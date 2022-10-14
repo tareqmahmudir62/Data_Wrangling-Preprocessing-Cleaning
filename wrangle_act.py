@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Project: Wrangling and Analyze Data
-
-# In[1]:
-
 
 import requests as r
 import pandas as pd
